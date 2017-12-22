@@ -18,3 +18,4 @@ services:
       FTB_SERVER_MOD: "FTBRevelationServer_1.0.0.zip"
       MIN_RAM: "2G"
       MAX_RAM: "8G"
+      PVP: "false"
